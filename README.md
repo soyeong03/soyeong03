@@ -1,4 +1,13 @@
-## Hi there 👋
+## 
+
+프로젝트 이력
+- C언어와 리눅스 시스템 콜 기반 채팅 서비스
+- 시계열 DB 기반의 실시간 로봇 모니터링 시스템 구축
+
+
+기술 스택
+
+
 
 <!--
 **soyeong03/soyeong03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
